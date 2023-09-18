@@ -1,0 +1,89 @@
+
+.navbar {
+    background-color: #344654; 
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #1e0909; 
+}
+
+.hero {
+    background-image: url('cool-background.svg'); 
+    background-size: cover;
+    color: #d1c6c6; 
+    padding: 100px 0;
+ 
+}
+
+#photo
+{
+    height: 234px;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.about {
+    background-color: #ad9b9b67; 
+    padding: 60px 0;
+}
+
+.about h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+
+.portfolio {
+    background-color: #fff; 
+    padding: 80px 0;
+}
+
+.portfolio h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.portfolio-item h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.portfolio-item p {
+    font-size: 16px;
+}
+
+.contact {
+    background-color: #f8f8f8; 
+    padding: 80px 0;
+}
+
+.contact h2 {
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.contact p {
+    font-size: 18px;
+}
+
+
+.footer {
+    background-color: #8a2323; 
+    color: #a77171; 
+    text-align: center;
+    padding: 20px 0;
+}
